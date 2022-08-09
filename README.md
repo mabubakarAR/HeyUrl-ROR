@@ -1,10 +1,4 @@
-![FullStack Labs](app/assets/images/FSL-logo-portrait.png)
-
-# HeyURL! Code Challenge
-
-This repository has been created as a code challenge for candidates with
-FullStack Labs. Please setup your environment following the `Getting Started`
-section before starting the challenge.
+# HeyURL!
 
 ## Getting Started
 
